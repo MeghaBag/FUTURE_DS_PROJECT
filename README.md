@@ -65,4 +65,4 @@ MIT License — feel free to use, modify, and share.
 
 ## ✨ Author
 
-Created by [Your Name] using [Google Colab](https://colab.research.google.com/) and [VADER Sentiment](https://github.com/cjhutto/vaderSentiment).
+Created by Megha Bag using [Google Colab](https://colab.research.google.com/) and [VADER Sentiment](https://github.com/cjhutto/vaderSentiment).
